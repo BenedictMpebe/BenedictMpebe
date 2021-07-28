@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benedict Mpebe
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning how to develop an app
+- 🌱 I’m currently learning how to develop an app at IT varsity
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via email - benedictmpebe@gmail.com
 
